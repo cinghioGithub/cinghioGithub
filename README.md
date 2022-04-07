@@ -4,7 +4,7 @@
 <h2 align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=cinghioGithub.cinghioGithub"/>
   <a href="https://cinghiogithub.github.io/">
-    <img src="https://img.shields.io/badge/andreaghiglione.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
+    <img src="https://img.shields.io/badge/Personal%20Web%20Page-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
   </a>
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </h2>
