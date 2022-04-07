@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering (Cybersecurity) student</h3>
 
 <h2 align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=cinghioGithub.cinghioGithub"/>
+  <img src="https://komarev.com/ghpvc/?username=cinghioGithub&style=square" alt="cinghioGithub" />
   <a href="https://cinghiogithub.github.io/">
     <img src="https://img.shields.io/badge/Personal%20Web%20Page-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
   </a>
