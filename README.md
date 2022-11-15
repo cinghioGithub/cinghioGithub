@@ -1,5 +1,5 @@
 <h1 align="center"><!--Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> Enrico Bravi </h1>
-<h3 align="center">Computer Engineering (Cybersecurity) student</h3>
+<h3 align="center">PhD student in Computer Engineering (Cybersecurity)</h3>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=cinghioGithub&style=square" alt="cinghioGithub" />
@@ -15,10 +15,9 @@
   
 ## More About Me:
 
-- 📚 &nbsp; I’m currently studying Computer Engineering (Cybersecurity) at Politecnico di Torino
-- 🎓 &nbsp; I’m graduated in Computer Engineering
+- 📚 &nbsp; I’m currently a PhD student in Computer Engineering (Cybersecurity) at Politecnico di Torino
+- 🎓 &nbsp; I got a bachelor's and master's degree in Computer Engineering at Politecnico di Torino
 - 💻 &nbsp; I’m passionate about Cybersecurity and Sofware Development
-- 🌱 &nbsp; I’m currently a research scholarship owner at [SmartData@PoliTo](https://smartdata.polito.it/)
 - 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/cinghioGithub?tab=repositories)
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/enrico-bravi-370b59198/) or [e-mail](mailto:bravienrico@yahoo.it)
 <!--- 📝 &nbsp; Checkout my [resume]()-->
