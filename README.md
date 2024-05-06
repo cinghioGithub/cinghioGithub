@@ -10,15 +10,14 @@
 </h2>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<img align="right" padding-right:80px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   
 ## More About Me:
+
+<img align="right" padding-right:80px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 - 📚 &nbsp; I’m currently a PhD student in Computer Engineering (Cybersecurity) at Politecnico di Torino
 - 🎓 &nbsp; I got a bachelor's and master's degree in Computer Engineering at Politecnico di Torino
 - 💻 &nbsp; I’m passionate about Cybersecurity and Sofware Development
-- 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/cinghioGithub?tab=repositories)
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/enrico-bravi-370b59198/) or [e-mail](mailto:bravienrico@yahoo.it)
 <!--- 📝 &nbsp; Checkout my [resume]()-->
 
