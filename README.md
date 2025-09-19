@@ -18,7 +18,7 @@
 - 📚 &nbsp; I’m currently a PhD student in Computer Engineering (Cybersecurity) at Politecnico di Torino
 - 🎓 &nbsp; I got a bachelor's and master's degree in Computer Engineering at Politecnico di Torino
 - 💻 &nbsp; I’m passionate about Cybersecurity and Sofware Development
-- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/enrico-bravi-370b59198/) or [e-mail](mailto:bravienrico@yahoo.it)
+- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/enrico-bravi-370b59198/) or [e-mail](mailto:ebravi.dev@gmail.com)
 <!--- 📝 &nbsp; Checkout my [resume]()-->
 
 
