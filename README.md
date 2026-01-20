@@ -96,7 +96,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Stats:
+<!--## Stats:
 
 <p align = "center">
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=cinghioGithub&hide_border=true&background=FF2D2D00&sideLabels=70A3F6&currStreakNum=70A3F6&sideNums=70A3F6&dates=70A3F6&stroke=DD272700" width = 400>
